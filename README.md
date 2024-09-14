@@ -8,14 +8,10 @@
 
 
 ### 📊 Github Stats
-<a href='https://github.com/vghatmal/github-stats-transparent'>
-  ![](https://github-readme-stats.vercel.app/api?username=vghatmal&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![Stats Overview](https://raw.githubusercontent.com/vghatmal/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/vghatmal/github-stats-transparent/output/generated/languages.svg)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=vghatmal&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
 
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mggupta1221&layout=compact)
 
-<br>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
