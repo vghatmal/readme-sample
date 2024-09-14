@@ -5,8 +5,17 @@
 👩🏻‍🎓 Studied<br/>
 💭 Currently learning about data analytics!<br/>
 
-<!-- GitHub stats from https://github.com/anuraghazra/github-readme-stats -->
-![](https://github-readme-stats.vercel.app/api?username=vghatmal&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+
+
+### 📊 Github Stats
+<a href='https://github.com/vghatmal/github-stats-transparent'>
+  ![](https://github-readme-stats.vercel.app/api?username=vghatmal&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![Stats Overview](https://raw.githubusercontent.com/vghatmal/github-stats-transparent/output/generated/overview.svg)
+![Most Used Languages](https://raw.githubusercontent.com/vghatmal/github-stats-transparent/output/generated/languages.svg)
+
+</a>
+
+<br>
 
 # 💻 Tech Stack
 <!-- Badges from https://github.com/Ileriayo/markdown-badges -->
@@ -33,5 +42,3 @@
 
 
 
-![](https://raw.githubusercontent.com/vghatma/github-stats-transparent/output/generated/overview.svg)
-![](https://raw.githubusercontent.com/vghatma/github-stats-transparent/output/generated/languages.svg)
