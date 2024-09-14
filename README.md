@@ -26,7 +26,8 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-
+![](https://raw.githubusercontent.com/vghatmal/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/vghatmal/github-stats-transparent/output/generated/languages.svg)
 
 
 
