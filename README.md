@@ -26,3 +26,9 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
+
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=vghatmal&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
+
+![](https://raw.githubusercontent.com/vghatma/github-stats-transparent/output/generated/overview.svg)
+![](https://raw.githubusercontent.com/vghatma/github-stats-transparent/output/generated/languages.svg)
